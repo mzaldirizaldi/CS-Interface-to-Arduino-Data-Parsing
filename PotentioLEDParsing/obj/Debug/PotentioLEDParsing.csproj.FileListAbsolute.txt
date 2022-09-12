@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\bin\Debug\PotentioLEDParsing.exe.config
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\bin\Debug\PotentioLEDParsing.exe
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\bin\Debug\PotentioLEDParsing.pdb
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.Form1.resources
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.exe
+C:\Users\LENOVO\source\repos\12 September 2022\PotentioLEDParsing\PotentioLEDParsing\obj\Debug\PotentioLEDParsing.pdb
